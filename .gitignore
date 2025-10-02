@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+*.pyc
+credentials.json
+secrets.toml
